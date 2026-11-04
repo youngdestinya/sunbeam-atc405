@@ -1,0 +1,42 @@
+-----> Deploying web (count=1)
+       Attempting pre-flight checks (web.1)
+-----> Executing 2 healthchecks
+       Running healthcheck name='default' type='uptime' uptime=10
+       Running healthcheck name='port listening check' attempts=3 port=3000 retries=2 timeout=5 type='listening' wait=5
+       Healthcheck succeeded name='port listening check'
+       Healthcheck succeeded name='default'
+       All checks successful (web.1)
+=====> Start of sunbeam container output (e29293d59487 web.1)
+       Sunbeam ready at http://localhost:8082 | demo credentials enabled | bind 0.0.0.0
+=====> End of sunbeam container output (e29293d59487 web.1)
+       Scheduling old container shutdown in 60 seconds (web.1)
+=====> Triggering early nginx proxy rebuild
+-----> Ensuring network configuration is in sync for sunbeam
+-----> Configuring localhost...(using built-in template)
+-----> Creating http nginx.conf
+       Reloading nginx
+-----> Running post-deploy
+-----> Ensuring network configuration is in sync for sunbeam
+-----> Configuring localhost...(using built-in template)
+-----> Creating http nginx.conf
+       Reloading nginx
+-----> Renaming containers
+       Found previous container(s) (da90448329d2) named sunbeam.web.1
+       Renaming container (da90448329d2) sunbeam.web.1 to sunbeam.web.1.1793772979
+       Renaming container sunbeam.web.1.upcoming-8809 (e29293d59487) to sunbeam.web.1
+[controller-runtime] log.SetLogger(...) was never called; logs will not be displayed.
+Detected at:
+	>  goroutine 1 [running, locked to thread]:
+	>  runtime/debug.Stack()
+	>  	/usr/local/go/src/runtime/debug/stack.go:26 +0x5e
+	>  sigs.k8s.io/controller-runtime/pkg/log.eventuallyFulfillRoot()
+	>  	/go/pkg/mod/sigs.k8s.io/controller-runtime@v0.25.0/pkg/log/log.go:60 +0xcd
+	>  sigs.k8s.io/controller-runtime/pkg/log.(*delegatingLogSink).WithName(0x3ed60574f900, {0x27f88bc, 0x6})
+	>  	/go/pkg/mod/sigs.k8s.io/controller-runtime@v0.25.0/pkg/log/deleg.go:147 +0x3e
+	>  github.com/go-logr/logr.Logger.WithName(...)
+	>  	/go/pkg/mod/github.com/go-logr/logr@v1.4.3/logr.go:345
+	>  sigs.k8s.io/controller-runtime/pkg/client/config.init()
+	>  	/go/pkg/mod/sigs.k8s.io/controller-runtime@v0.25.0/pkg/client/config/config.go:37 +0x4d
+-----> Checking for postdeploy task
+       No postdeploy task found, skipping
+-----> Shutting down old containers in 60 seconds

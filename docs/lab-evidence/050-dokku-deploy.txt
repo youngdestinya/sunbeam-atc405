@@ -1,0 +1,4 @@
+ !     Deprecated: please use 'storage:create' instead of 'storage:ensure-directory'
+-----> Ensuring /var/lib/dokku/data/storage/sunbeam exists
+       Setting directory ownership to 32767:32767
+       Directory ready for mounting

@@ -1,0 +1,8 @@
+-----> Setting config vars
+       APP_ORIGIN:     http://localhost:8082
+       DATA_DIR:       /app/data
+       DEMO_MODE:      true
+       HOST:           0.0.0.0
+       NODE_ENV:       production
+       PORT:           3000
+       SECURE_COOKIE:  false

@@ -1,0 +1,2 @@
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+Clone medium created in format 'VDI'. UUID: d2d1a8fd-7a5c-4ad7-beba-29979925910a

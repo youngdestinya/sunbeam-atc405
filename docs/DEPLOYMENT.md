@@ -2,6 +2,10 @@
 
 Student AGL202607071 · D=1 · Small tier · feeder suffix 1 · Task 4 six-hour South African regional outage.
 
+## Actual local execution
+
+The local estate has now been provisioned and both applications deployed. Use [LAB-GUIDE.md](LAB-GUIDE.md) and [lab-evidence/COMMAND-COUNTS.md](lab-evidence/COMMAND-COUNTS.md) for the actual executed deployment and verification results. The commands below remain a generic deployment template.
+
 ## Command-count convention
 
 Count each shell invocation typed after prerequisites are ready, including configuration. Do not count automatic Dockerfile build steps or commands you have not run. Keep a transcript and report your actual number. The Docker model below has **3 invocations after the initial source checkout**; Dokku Dockerfile has **12** including volume ownership, application configuration and verification. Installation, SSH setup, VM creation, DNS, TLS, Git initialization and secrets generation are extra and must be counted separately if shown. Never describe these template counts as measured execution evidence.
@@ -51,7 +55,7 @@ The container uses the `node` user (UID 1000 in this image). Verify mounted dire
 
 ### Procfile / buildpack alternative
 
-The repository also contains `Procfile` for a Node buildpack deployment. The default Dokku path above deliberately uses Dockerfile. To demonstrate Procfile instead, choose a Node buildpack supported by your installed Dokku version, disable Dockerfile detection with its documented buildpack selection, set `HOST`, `PORT`, `DATA_DIR` and credentials, mount a writable persistent directory at the configured `DATA_DIR`, then push the source. Verify Node >=24. Do not claim that the Dockerfile path exercised the Procfile. Record the buildpack identifier, Node version, actual commands and successful output in your walkthrough.
+The repository also contains `Procfile` for a Node buildpack deployment. The default Dokku path above deliberately uses Dockerfile. To demonstrate Procfile instead, choose a Node buildpack supported by your installed Dokku version, disable Dockerfile detection with its documented buildpack selection, set `HOST`, `PORT`, `DATA_DIR` and credentials, mount a writable persistent directory at the configured `DATA_DIR`, then push the source. Verify Node >=24. Inspect the actual deployment output to distinguish Dockerfile image construction, process configuration and a buildpack deployment. A Dockerfile build alone does not prove a Node buildpack was used. Record the buildpack identifier, Node version, actual commands and successful output in your walkthrough.
 
 ## D. VirtualBox estate
 

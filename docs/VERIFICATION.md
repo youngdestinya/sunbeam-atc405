@@ -16,7 +16,7 @@ Verified 4 November 2026 on the local Windows workspace.
 
 ## Deployment boundary
 
-Docker, Dokku and VirtualBox executables were not available from this shell. No container image build, VM estate, Dokku push, cloud hosting, TLS certificate, backup restore or throughput/SLA test is claimed. Supplied deployment files and commands are a model to execute on a suitable host. Public hosting has not been provisioned. The local application is available while its Node process remains running.
+The initial Node-only verification preceded deployment tooling installation. The later local lab run installed VirtualBox 7.2.22 and provisioned two Ubuntu 24.04.5 guests. Docker Engine 29.9.3 runs in both; Dokku 0.38.31 runs on the PaaS guest. Application source 1ba37c2 was built and run under Docker and pushed successfully to Dokku. Both endpoints passed the application checks. Both Docker container restart and Dokku platform restart persistence passed for visit evidence and reviewed appeals. Exact commands, exit codes, versions and captured output are in docs/lab-evidence/COMMAND-COUNTS.md. No public cloud hosting, TLS certificate, full backup restore, Windows reboot or throughput/SLA test is claimed.
 
 The later-task readings pipeline, full generated practical dataset, prediction model, external AI assistant, actual NERC cap rules, identity vault and foreign transfer arrangements are not implemented. These limitations are visible in the application and documentation.
 

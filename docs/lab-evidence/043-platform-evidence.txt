@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE           COMMAND                  CREATED         STATUS                        PORTS                                         NAMES
+8f8e339f318f   sunbeam:task1   "docker-entrypoint.s…"   2 minutes ago   Up About a minute (healthy)   0.0.0.0:3000->3000/tcp, [::]:3000->3000/tcp   sunbeam

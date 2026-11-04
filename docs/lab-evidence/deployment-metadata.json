@@ -1,0 +1,14 @@
+{
+  "sourceCommit": "1ba37c2e62377144b1390f94f4d04381fd160891",
+  "sourceArchiveSHA256": "C3B854741DA4628D6334A4060615159C49E89041E1FDB8020A9448889E10AFB9",
+  "virtualBoxVersion": "7.2.22r175245",
+  "ubuntuVersion": "24.04.5 LTS",
+  "dockerEngine": "29.9.3",
+  "containerNode": "v24.22.2",
+  "hostPorts": {
+    "docker": 8081,
+    "dokku": 8082
+  },
+  "data": "synthetic demonstration only",
+  "dokkuVersion": "0.38.31"
+}

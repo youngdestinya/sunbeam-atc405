@@ -1,0 +1,14 @@
+{
+  "origin": "http://localhost:8082",
+  "verifiedUtc": "2026-11-04T06:19:04.182Z",
+  "checks": [
+    "health and database",
+    "anonymous data denied",
+    "field can sign in",
+    "assigned feeder restriction",
+    "field cannot read audit",
+    "reviewer can sign in",
+    "visit evidence survived restart",
+    "review survived restart"
+  ]
+}

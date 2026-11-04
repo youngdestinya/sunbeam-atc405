@@ -6,6 +6,10 @@ ATC 405 Cloud Infrastructure and Databases · Task 1
 
 A navy-and-gold, phone-friendly application using locally bundled **Alegreya Sans**. It demonstrates assigned field visits, persistent evidence reports, billing appeals, separate human review, outage timing evidence and a bounded help assistant. All seeded records are fictional.
 
+## Your completed local VirtualBox lab
+
+The app has been deployed on two separate Ubuntu guests: **Docker at http://localhost:8081** and **Dokku at http://localhost:8082**. See [docs/LAB-GUIDE.md](docs/LAB-GUIDE.md) for recording, starting and stopping the estate, and [the actual command ledger](docs/lab-evidence/COMMAND-COUNTS.md) for executed commands. The Node-only option below remains available.
+
 ## 1. Run locally
 
 Install Node.js 24 or newer. No npm dependencies, account or paid service is required.
@@ -34,7 +38,7 @@ Local development enables demonstration credentials. Click a role button to fill
 | Field revenue officer | field | SunbeamField!2026 |
 | Billing dispute officer | reviewer | SunbeamReview!2026 |
 
-Deployment must disable demo mode and supply distinct passwords of at least 16 characters. Never reuse the local demo passwords publicly. The application remains a teaching deployment even with demo credentials disabled.
+Any public or real-customer deployment must disable demo mode and supply distinct passwords of at least 16 characters. The loopback-only VirtualBox teaching lab intentionally enables demo mode with fictional records. Never reuse the local demo passwords publicly. The application remains a teaching deployment even with demo credentials disabled.
 
 ## 3. Plan a field visit
 
@@ -88,7 +92,7 @@ Follow [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md) for Docker, Dokku, VirtualBox, p
 | `Dockerfile`, `Procfile`, `compose.yaml` | Container and platform deployment artifacts |
 | `docs/VERIFICATION.md` | Results and outstanding environment-dependent checks |
 
-The source folder is repository-ready. Initialize Git and commit the source after reviewing it; no remote repository or successful commit is claimed unless separately verified. Do not commit `.env`, `data/` or generated meter readings.
+The local Git repository is initialized, and the deployed application source is commit 1ba37c2. Dokku receives that source through the local dokku-lab Git remote. Additional lab evidence is kept in docs/lab-evidence. No GitHub repository or external submission is claimed. Do not commit `.env`, `data/` or generated meter readings.
 
 ## Troubleshooting
 

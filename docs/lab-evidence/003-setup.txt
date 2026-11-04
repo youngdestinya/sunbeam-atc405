@@ -1,0 +1,3 @@
+Virtual machine 'sunbeam-iaas' is created and registered.
+UUID: af6ade8b-3684-47f1-bb65-3eaca8c1bd7b
+Settings file: 'C:\Users\young\SunbeamLab\vms\sunbeam-iaas\sunbeam-iaas.vbox'

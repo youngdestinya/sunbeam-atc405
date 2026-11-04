@@ -1,0 +1,4 @@
+ !     No web listeners specified for sunbeam
+-----> Configuring localhost...(using built-in template)
+-----> Creating http nginx.conf
+       Reloading nginx
