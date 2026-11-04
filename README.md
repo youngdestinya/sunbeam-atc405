@@ -104,3 +104,5 @@ The local Git repository is initialized, and the deployed application source is 
 - **Too many attempts:** wait 15 minutes after ten failed attempts. Restarting also clears the in-memory limiter; use edge rate limiting for real deployment.
 - **Data disappeared:** ensure `/app/data` is mounted persistently and backed up; changing `DATA_DIR` selects another database.
 - **No Docker/VirtualBox/Dokku installed:** local Node runs still work. Install deployment tools on a suitable host and record actual execution; files alone do not prove deployment.
+
+The premium login fits standard desktop viewports automatically, including 1280 x 720 and 1366 x 768, with no zoom adjustment. On phones, the form and service panel stack vertically and scroll normally. The global font remains locally hosted Alegreya Sans.

@@ -25,3 +25,5 @@ Screenshots named `reference-login-*` show this final composition. The earlier `
 
 ## Default viewport fit
 The login now adapts spacing and card width to desktop height. Verified with all controls visible and no document overflow at 1440 x 900, 1366 x 768 and 1280 x 720. No browser zoom or CSS scaling is required. Phones retain readable stacked content and normal scrolling. Measurements: viewport-fit-checks.json; screenshot: screenshots/viewport-fit-desktop.png.
+
+Viewport-fit release ed770e6 was deployed successfully to Docker (8081) and Dokku (8082). Both served stylesheets match source after newline normalization. Both post-deployment checks passed, including retained visit evidence and appeal reviews. The final deployed desktop screenshot is screenshots/viewport-fit-deployed.png.

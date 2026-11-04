@@ -11,3 +11,5 @@ Initial preflight: Windows host has Intel i7-12700, 32 GB RAM, about 61 GB free 
 Host installation attempt: `winget install --id Oracle.VirtualBox --exact --source winget --silent --disable-interactivity --log C:\Users\young\SunbeamLab\virtualbox-install.log`. Winget's Delivery Optimization download remained at zero bytes, so the owned winget process was stopped and a direct official Oracle download was started. This failed setup attempt is excluded from application-deployment counts and retained here for transparency.
 
 Virtual machine disks, installers and private SSH material are kept in `C:\Users\young\SunbeamLab`, outside Google Drive and outside this repository. VM network adapters must use NAT with host forwarding bound to 127.0.0.1. No public hosting or paid cloud resource is requested.
+
+Visual revisions are recorded in separate deployment phases; they do not alter the original Docker 6 / Dokku 10 initial-deployment comparison. For successful commands that emitted no text, their output file explicitly states that no stdout/stderr was captured. Sequence 27 remains the separately documented instrumentation error.

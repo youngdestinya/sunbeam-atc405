@@ -1,0 +1,51 @@
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 529B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for docker.io/library/node:24-bookworm-slim
+#2 DONE 2.8s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 119B done
+#3 DONE 0.0s
+
+#4 [internal] load build context
+#4 DONE 0.0s
+
+#5 [1/5] FROM docker.io/library/node:24-bookworm-slim@sha256:c86ecead9e55a5210ac1727de38a4ca840bf03dcaf34dc9749addbf383b1920c
+#5 resolve docker.io/library/node:24-bookworm-slim@sha256:c86ecead9e55a5210ac1727de38a4ca840bf03dcaf34dc9749addbf383b1920c
+#5 resolve docker.io/library/node:24-bookworm-slim@sha256:c86ecead9e55a5210ac1727de38a4ca840bf03dcaf34dc9749addbf383b1920c 0.2s done
+#5 DONE 0.2s
+
+#4 [internal] load build context
+#4 transferring context: 570.28kB 0.1s done
+#4 DONE 0.2s
+
+#6 [2/5] WORKDIR /app
+#6 CACHED
+
+#7 [3/5] COPY --chown=node:node package.json server.mjs ./
+#7 DONE 0.4s
+
+#8 [4/5] COPY --chown=node:node public ./public
+#8 DONE 0.4s
+
+#9 [5/5] RUN mkdir /app/data && chown node:node /app/data
+#9 DONE 1.0s
+
+#10 exporting to image
+#10 exporting layers
+#10 exporting layers 1.9s done
+#10 exporting manifest sha256:da3a0d09526fb82c87ba4639d23bf9c831b762d56ccde8cc6d0b7e1d3e82b3d1
+#10 exporting manifest sha256:da3a0d09526fb82c87ba4639d23bf9c831b762d56ccde8cc6d0b7e1d3e82b3d1 0.2s done
+#10 exporting config sha256:bb255ab89859be0286309c8e47f7b2ee4487f8413a31ddfe03f406aedb5f3ef5
+#10 exporting config sha256:bb255ab89859be0286309c8e47f7b2ee4487f8413a31ddfe03f406aedb5f3ef5 0.1s done
+#10 exporting attestation manifest sha256:183071927a1793f0b23c88502cb6f960eaf68643178e513bdded3034b74ae2fa
+#10 exporting attestation manifest sha256:183071927a1793f0b23c88502cb6f960eaf68643178e513bdded3034b74ae2fa 0.0s done
+#10 exporting manifest list sha256:f9eca2d660d765ac7f221e5041615219d4a390e1065e5a083f664b7d122f0bad 0.0s done
+#10 naming to docker.io/library/sunbeam:luxury 0.0s done
+#10 unpacking to docker.io/library/sunbeam:luxury
+#10 unpacking to docker.io/library/sunbeam:luxury 0.3s done
+#10 DONE 2.8s

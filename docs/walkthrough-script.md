@@ -15,3 +15,5 @@ Student AGL202607071; D=1; Small scale; feeder identifiers ending in 1; Task 4 s
 **2:30–3:00, on camera:** “I refuse to move the identity re-identification key out of Sunbeam-controlled infrastructure in Abeokuta. Pseudonymized readings are still personal data, and foreign hosting needs a lawful, documented transfer position. I also refuse automated disconnection and guilt labels. During my six-hour region-outage scenario, we preserve operational alerts, pause evidence-dependent billing and reconcile records after recovery.”
 
 Record honest limitations. The local VirtualBox, Docker and Dokku runs are now evidenced in docs/lab-evidence. The cloud pipeline, trained model and faasd remain unimplemented and must not be claimed. Upload and repository destinations were not provided.
+
+The later visual-design rollouts appear as separate phases in the ledger. Quote the original first-deployment counts (Docker 6, Dokku 10) and identify this counting boundary in the recording.

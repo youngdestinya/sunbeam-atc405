@@ -1,0 +1,94 @@
+remote: -----> Cleaning up...        
+remote: -----> Building sunbeam from Dockerfile        
+remote: #0 building with "default" instance using docker driver        
+remote: 
+remote: #1 [internal] load build definition from Dockerfile        
+remote: #1 transferring dockerfile: 519B done        
+remote: #1 DONE 0.1s        
+remote: 
+remote: #2 [internal] load metadata for docker.io/library/node:24-bookworm-slim        
+remote: #2 DONE 4.1s        
+remote: 
+remote: #3 [internal] load .dockerignore        
+remote: #3 transferring context: 111B done        
+remote: #3 DONE 0.1s        
+remote: 
+remote: #4 [1/5] FROM docker.io/library/node:24-bookworm-slim@sha256:c86ecead9e55a5210ac1727de38a4ca840bf03dcaf34dc9749addbf383b1920c        
+remote: #4 resolve docker.io/library/node:24-bookworm-slim@sha256:c86ecead9e55a5210ac1727de38a4ca840bf03dcaf34dc9749addbf383b1920c 0.1s done        
+remote: #4 DONE 0.1s        
+remote: 
+remote: #5 [internal] load build context        
+remote: #5 DONE 0.0s        
+remote: 
+remote: #5 [internal] load build context        
+remote: #5 transferring context: 582.32kB 0.0s done        
+remote: #5 DONE 0.1s        
+remote: 
+remote: #6 [2/5] WORKDIR /app        
+remote: #6 CACHED        
+remote: 
+remote: #7 [3/5] COPY --chown=node:node package.json server.mjs ./        
+remote: #7 CACHED        
+remote: 
+remote: #8 [4/5] COPY --chown=node:node public ./public        
+remote: #8 DONE 0.2s        
+remote: 
+remote: #9 [5/5] RUN mkdir /app/data && chown node:node /app/data        
+remote: #9 DONE 0.6s        
+remote: 
+remote: #10 exporting to image        
+remote: #10 exporting layers        
+remote: #10 exporting layers 0.5s done        
+remote: #10 exporting manifest sha256:c1fb938cea1be3fe7175e359b196760fdfca33cab076e7abe1b3bc93ea8ff144 0.1s done        
+remote: #10 exporting config sha256:ad46ced4ce19d25fb881bf48568085990555a45a3907bfa57395a3ff50b85f16 0.0s done        
+remote: #10 exporting attestation manifest sha256:d3f22a542130c61ca6dfb9da33cd584634adcb24db5a4bdfd11e125206252624        
+remote: #10 exporting attestation manifest sha256:d3f22a542130c61ca6dfb9da33cd584634adcb24db5a4bdfd11e125206252624 0.0s done        
+remote: #10 exporting manifest list sha256:45152d44b6b8b38cd373332ba5762e22241e033499de39611ab8ea636e813a1a 0.0s done        
+remote: #10 naming to docker.io/dokku/sunbeam:latest 0.0s done        
+remote: #10 unpacking to docker.io/dokku/sunbeam:latest        
+remote: #10 unpacking to docker.io/dokku/sunbeam:latest 0.2s done        
+remote: #10 DONE 1.0s        
+remote: -----> Releasing sunbeam...        
+remote: -----> Checking for predeploy task        
+remote:        No predeploy task found, skipping        
+remote: -----> Checking for release task        
+remote:        No release task found, skipping        
+remote: =====> Processing deployment checks        
+remote:  !     No healthchecks found in app.json for web process type        
+remote:        No web healthchecks found in app.json. Simple container checks will be performed.        
+remote:        For more efficient zero downtime deployments, add healthchecks to your app.json. See https://dokku.com/docs/deployment/zero-downtime-deploys/ for examples        
+remote: -----> Deploying sunbeam via the docker-local scheduler...        
+remote: -----> Deploying web (count=1)        
+remote:        Attempting pre-flight checks (web.1)        
+remote: -----> Executing 2 healthchecks        
+remote:        Running healthcheck name='default' type='uptime' uptime=10        
+remote:        Running healthcheck name='port listening check' attempts=3 port=3000 retries=2 timeout=5 type='listening' wait=5        
+remote:        Healthcheck succeeded name='port listening check'        
+remote:        Healthcheck succeeded name='default'        
+remote:        All checks successful (web.1)        
+remote: =====> Start of sunbeam container output (41aaf1274f8b web.1)        
+remote:        Sunbeam ready at http://localhost:8082 | demo credentials enabled | bind 0.0.0.0        
+remote: =====> End of sunbeam container output (41aaf1274f8b web.1)        
+remote:        Scheduling old container shutdown in 60 seconds (web.1)        
+remote: =====> Triggering early nginx proxy rebuild        
+remote: -----> Ensuring network configuration is in sync for sunbeam        
+remote: -----> Configuring localhost...(using built-in template)        
+remote: -----> Creating http nginx.conf        
+remote:        Reloading nginx        
+remote: -----> Running post-deploy        
+remote: -----> Ensuring network configuration is in sync for sunbeam        
+remote: -----> Configuring localhost...(using built-in template)        
+remote: -----> Creating http nginx.conf        
+remote:        Reloading nginx        
+remote: -----> Renaming containers        
+remote:        Found previous container(s) (49ee28b43d40) named sunbeam.web.1        
+remote:        Renaming container (49ee28b43d40) sunbeam.web.1 to sunbeam.web.1.1793775734        
+remote:        Renaming container sunbeam.web.1.upcoming-24311 (41aaf1274f8b) to sunbeam.web.1        
+remote: -----> Checking for postdeploy task        
+remote:        No postdeploy task found, skipping        
+remote: -----> Shutting down old containers in 60 seconds        
+remote: =====> Application deployed:        
+remote:        http://localhost        
+remote: 
+To ssh://127.0.0.1:2222/sunbeam
+   55d6837..ed770e6  HEAD -> main

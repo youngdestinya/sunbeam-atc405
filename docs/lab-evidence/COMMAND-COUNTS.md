@@ -7,10 +7,20 @@ These are executed invocations, not the earlier template counts. Each invocation
 | Phase | Executed attempts | Successful | Failed |
 |---|---:|---:|---:|
 | docker-deploy | 6 | 6 | 0 |
+| docker-fit | 6 | 6 | 0 |
+| docker-polish | 6 | 6 | 0 |
+| docker-redesign | 6 | 6 | 0 |
+| docker-reference | 6 | 6 | 0 |
 | docker-verify | 3 | 3 | 0 |
 | dokku-deploy | 10 | 10 | 0 |
+| dokku-fit | 1 | 1 | 0 |
+| dokku-redesign | 1 | 1 | 0 |
 | dokku-verify | 3 | 3 | 0 |
+| fit-verify | 2 | 2 | 0 |
+| login-reference | 1 | 1 | 0 |
 | platform-evidence | 4 | 4 | 0 |
+| redesign-verify | 1 | 1 | 0 |
+| reference-verify | 2 | 2 | 0 |
 | setup | 31 | 30 | 1 |
 | troubleshooting | 3 | 3 | 0 |
 
@@ -22,6 +32,42 @@ These are executed invocations, not the earlier template counts. Each invocation
 36. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'sudo docker build --tag sunbeam:task1 /home/sunbeam/app'` — output: 036-docker-deploy.txt
 37. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'sudo docker volume create sunbeam-data'` — output: 037-docker-deploy.txt
 38. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'sudo docker run --detach --name sunbeam --restart unless-stopped --publish 3000:3000 --env DEMO_MODE=true --env APP_ORIGIN=http://localhost:8081 --mount type=volume,src=sunbeam-data,dst=/app/data sunbeam:task1'` — output: 038-docker-deploy.txt
+
+## docker-fit
+
+85. Exit 0: `scp viewport-fit source archive to IaaS` — output: 085-docker-fit.txt
+86. Exit 0: `ssh IaaS: tar -xf /tmp/sunbeam-viewport-fit.tar -C /home/sunbeam/app` — output: 086-docker-fit.txt
+87. Exit 0: `ssh IaaS: sudo docker build --tag sunbeam:viewport-fit /home/sunbeam/app` — output: 087-docker-fit.txt
+88. Exit 0: `ssh IaaS: sudo docker stop sunbeam` — output: 088-docker-fit.txt
+89. Exit 0: `ssh IaaS: sudo docker rename sunbeam sunbeam-reference-v1` — output: 089-docker-fit.txt
+90. Exit 0: `ssh IaaS: sudo docker run --detach --name sunbeam --restart unless-stopped --publish 3000:3000 --env DEMO_MODE=true --env APP_ORIGIN=http://localhost:8081 --mount type=volume,src=sunbeam-data,dst=/app/data sunbeam:viewport-fit` — output: 090-docker-fit.txt
+
+## docker-polish
+
+68. Exit 0: `scp -P 2221 sunbeam-luxury-final.tar sunbeam@127.0.0.1:/tmp/sunbeam-luxury-final.tar` — output: 068-docker-polish.txt
+69. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'tar -xf /tmp/sunbeam-luxury-final.tar -C /home/sunbeam/app'` — output: 069-docker-polish.txt
+70. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'sudo docker build --tag sunbeam:luxury-final /home/sunbeam/app'` — output: 070-docker-polish.txt
+71. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'sudo docker stop sunbeam'` — output: 071-docker-polish.txt
+72. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'sudo docker rename sunbeam sunbeam-color-v1'` — output: 072-docker-polish.txt
+73. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'sudo docker run --detach --name sunbeam --restart unless-stopped --publish 3000:3000 --env DEMO_MODE=true --env APP_ORIGIN=http://localhost:8081 --mount type=volume,src=sunbeam-data,dst=/app/data sunbeam:luxury-final'` — output: 073-docker-polish.txt
+
+## docker-redesign
+
+62. Exit 0: `scp -P 2221 sunbeam-luxury-source.tar sunbeam@127.0.0.1:/tmp/sunbeam-luxury-source.tar` — output: 062-docker-redesign.txt
+63. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'tar -xf /tmp/sunbeam-luxury-source.tar -C /home/sunbeam/app'` — output: 063-docker-redesign.txt
+64. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'sudo docker build --tag sunbeam:luxury /home/sunbeam/app'` — output: 064-docker-redesign.txt
+65. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'sudo docker stop sunbeam'` — output: 065-docker-redesign.txt
+66. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'sudo docker rename sunbeam sunbeam-initial'` — output: 066-docker-redesign.txt
+67. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'sudo docker run --detach --name sunbeam --restart unless-stopped --publish 3000:3000 --env DEMO_MODE=true --env APP_ORIGIN=http://localhost:8081 --mount type=volume,src=sunbeam-data,dst=/app/data sunbeam:luxury'` — output: 067-docker-redesign.txt
+
+## docker-reference
+
+76. Exit 0: `scp -P 2221 sunbeam-reference-login.tar sunbeam@127.0.0.1:/tmp/sunbeam-reference-login.tar` — output: 076-docker-reference.txt
+77. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'tar -xf /tmp/sunbeam-reference-login.tar -C /home/sunbeam/app'` — output: 077-docker-reference.txt
+78. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'sudo docker build --tag sunbeam:reference-login /home/sunbeam/app'` — output: 078-docker-reference.txt
+79. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'sudo docker stop sunbeam'` — output: 079-docker-reference.txt
+80. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'sudo docker rename sunbeam sunbeam-color-polished'` — output: 080-docker-reference.txt
+81. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 'sudo docker run --detach --name sunbeam --restart unless-stopped --publish 3000:3000 --env DEMO_MODE=true --env APP_ORIGIN=http://localhost:8081 --mount type=volume,src=sunbeam-data,dst=/app/data sunbeam:reference-login'` — output: 081-docker-reference.txt
 
 ## docker-verify
 
@@ -42,11 +88,28 @@ These are executed invocations, not the earlier template counts. Each invocation
 56. Exit 0: `git remote add dokku-lab ssh://dokku@127.0.0.1:2222/sunbeam` — output: 056-dokku-deploy.txt
 57. Exit 0: `git -c core.sshCommand="<dedicated local lab key and known_hosts>" push dokku-lab HEAD:main` — output: 057-dokku-deploy.txt
 
+## dokku-fit
+
+84. Exit 0: `git push dokku-lab HEAD:main (ed770e6 viewport fit)` — output: 084-dokku-fit.txt
+
+## dokku-redesign
+
+61. Exit 0: `git -c core.sshCommand="<dedicated local lab key>" push dokku-lab HEAD:main (redesign d1d06d4)` — output: 061-dokku-redesign.txt
+
 ## dokku-verify
 
 58. Exit 0: `node scripts/verify-lab-app.mjs http://localhost:8082 --write` — output: 058-dokku-verify.txt
 59. Exit 0: `ssh -p 2222 sunbeam@127.0.0.1 sudo dokku ps:restart sunbeam` — output: 059-dokku-verify.txt
 60. Exit 0: `node scripts/verify-lab-app.mjs http://localhost:8082 --expect-persisted` — output: 060-dokku-verify.txt
+
+## fit-verify
+
+91. Exit 0: `node scripts/verify-lab-app.mjs http://localhost:8082 --expect-persisted` — output: 091-fit-verify.txt
+92. Exit 0: `node scripts/verify-lab-app.mjs http://localhost:8081 --expect-persisted` — output: 092-fit-verify.txt
+
+## login-reference
+
+75. Exit 0: `git -c core.sshCommand="<dedicated local lab key>" push dokku-lab HEAD:main (reference login 55d6837)` — output: 075-login-reference.txt
 
 ## platform-evidence
 
@@ -54,6 +117,15 @@ These are executed invocations, not the earlier template counts. Each invocation
 43. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 sudo docker ps --filter name=sunbeam` — output: 043-platform-evidence.txt
 44. Exit 0: `ssh -p 2221 sunbeam@127.0.0.1 sudo docker exec sunbeam node --version` — output: 044-platform-evidence.txt
 47. Exit 0: `ssh -p 2222 sunbeam@127.0.0.1 dokku version` — output: 047-platform-evidence.txt
+
+## redesign-verify
+
+74. Exit 0: `node scripts/verify-lab-app.mjs http://localhost:8081 --expect-persisted (final design)` — output: 074-redesign-verify.txt
+
+## reference-verify
+
+82. Exit 0: `node scripts/verify-lab-app.mjs http://localhost:8081 --expect-persisted (reference login)` — output: 082-reference-verify.txt
+83. Exit 0: `node scripts/verify-lab-app.mjs http://localhost:8082 --expect-persisted (reference login)` — output: 083-reference-verify.txt
 
 ## setup
 

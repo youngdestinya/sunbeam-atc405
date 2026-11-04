@@ -10,5 +10,7 @@
     "dokku": 8082
   },
   "data": "synthetic demonstration only",
-  "dokkuVersion": "0.38.31"
+  "dokkuVersion": "0.38.31",
+  "viewportFitSourceCommit": "ed770e60dd7515ab316277746097d3dfec6f23c5",
+  "viewportFitArchiveSHA256": "426F03B010E5B7146AE01FB1CBE805D3916ACD766D3EABD8ED05C977B31EBA6B"
 }
