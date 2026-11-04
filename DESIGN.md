@@ -17,3 +17,5 @@ The user explicitly requested a distinct translucent colour for every card and a
 ## Reference-led sign-in — 4 November 2026
 The user's supplied reference authorizes a centered rounded split card: form on the left, curved branded panel on the right. Adapt it to Sunbeam rather than copying OGFZA identity. Preserve navy/gold and Alegreya Sans. Provide a real workspace selector for the two existing accounts, password visibility, functional sign-in help and demo credential buttons. The right panel updates its title and description for the selected workspace. On phones, the form comes first and the navy panel follows. No unimplemented password-reset link is shown.
 
+
+Login viewport fit: center the complete split card within desktop height, using compact spacing below 780px height. Keep normal font sizes and touch targets; phone layouts scroll naturally.

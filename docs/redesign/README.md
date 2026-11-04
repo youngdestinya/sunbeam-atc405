@@ -22,3 +22,6 @@ The user then supplied a split-card login reference. The final sign-in uses a ce
 Browser-verified controls: switching field/reviewer workspaces, wrong-password feedback and focus, show/hide password, sign-in help dialog, successful reviewer login, successful field-officer login and logout. Phone width 390 measured 375 pixels of document content with no horizontal overflow; Alegreya Sans was loaded. On phones, the form precedes the branded panel. All 9 backend integration tests passed after this change.
 
 Screenshots named `reference-login-*` show this final composition. The earlier `desktop-login.png` records the preceding visual iteration, not the final supplied-reference layout.
+
+## Default viewport fit
+The login now adapts spacing and card width to desktop height. Verified with all controls visible and no document overflow at 1440 x 900, 1366 x 768 and 1280 x 720. No browser zoom or CSS scaling is required. Phones retain readable stacked content and normal scrolling. Measurements: viewport-fit-checks.json; screenshot: screenshots/viewport-fit-desktop.png.

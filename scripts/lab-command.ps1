@@ -11,7 +11,7 @@ function Invoke-LabCommand {
     $ledgerMutex = [Threading.Mutex]::new($false,'Local\SunbeamLabCommandLedger')
     if (-not $ledgerMutex.WaitOne(5000)) { throw 'Could not acquire command-ledger lock.' }
     try {
-        $counterPath = Join-Path $evidencePath '.sequence'
+        $counterPath = Join-Path 'C:\Users\young\SunbeamLab' 'command-counter.txt'
         $previousMax = if (Test-Path $ledgerPath) { (Get-Content $ledgerPath | ForEach-Object { ($_ | ConvertFrom-Json).sequence } | Measure-Object -Maximum).Maximum } else { 0 }
         $reservedMax = if (Test-Path $counterPath) { [int](Get-Content $counterPath) } else { 0 }
         $sequence = [int]([Math]::Max($previousMax,$reservedMax) + 1)
@@ -27,3 +27,4 @@ function Invoke-LabCommand {
     try { $entry | Add-Content -LiteralPath $ledgerPath -Encoding utf8 } finally { $ledgerMutex.ReleaseMutex(); $ledgerMutex.Dispose() }
     if ($exitStatus -ne 0) { throw "Command $sequence failed with exit code $exitStatus. The attempt is retained in the ledger." }
 }
+

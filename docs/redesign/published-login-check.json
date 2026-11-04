@@ -1,0 +1,11 @@
+{
+  "url": "http://localhost:8082/",
+  "cardWidth": 540,
+  "curve": "48px",
+  "documentWidth": 600,
+  "font": "\"Alegreya Sans\", sans-serif",
+  "fontLoaded": true,
+  "heading": "Welcome",
+  "illustrationLabels": "FeederField evidenceHuman review",
+  "width": 615
+}
