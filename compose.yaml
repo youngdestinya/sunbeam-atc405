@@ -1,0 +1,17 @@
+services:
+  sunbeam:
+    build: .
+    ports:
+      - "127.0.0.1:3000:3000"
+    environment:
+      NODE_ENV: production
+      DEMO_MODE: "false"
+      APP_ORIGIN: ${APP_ORIGIN:-http://localhost:3000}
+      FIELD_PASSWORD: ${FIELD_PASSWORD:?Set FIELD_PASSWORD in .env}
+      REVIEW_PASSWORD: ${REVIEW_PASSWORD:?Set REVIEW_PASSWORD in .env}
+      SECURE_COOKIE: ${SECURE_COOKIE:-false}
+    volumes:
+      - sunbeam-data:/app/data
+    restart: unless-stopped
+volumes:
+  sunbeam-data:

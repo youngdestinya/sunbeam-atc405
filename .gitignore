@@ -1,0 +1,11 @@
+node_modules/
+data/
+.env
+generated/
+*.log
+test-results/
+
+tmp/
+font-download.css
+Sunbeam-Task-1-Submission.zip
+
