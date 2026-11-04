@@ -14,3 +14,11 @@ The user requested distinct translucent colours on every card and a luxury/premi
 - Source preview uses http://localhost:3000. Deployment update results and additional commands are recorded separately in `../lab-evidence/`; original initial-deployment counts remain Docker 6 and Dokku 10.
 
 The original app's data and authorization model are preserved. Existing VM volumes must remain attached during the redesign rollout. No real customer information, model scores or regulatory cap values are introduced.
+
+## Supplied login reference
+
+The user then supplied a split-card login reference. The final sign-in uses a centered rounded white card, a form on the left and a curved deep-navy service panel on the right. Sunbeam's identity, gold accents and Alegreya Sans are retained. The workspace selector updates the displayed service and username; the server still authenticates each account and assigns its role.
+
+Browser-verified controls: switching field/reviewer workspaces, wrong-password feedback and focus, show/hide password, sign-in help dialog, successful reviewer login, successful field-officer login and logout. Phone width 390 measured 375 pixels of document content with no horizontal overflow; Alegreya Sans was loaded. On phones, the form precedes the branded panel. All 9 backend integration tests passed after this change.
+
+Screenshots named `reference-login-*` show this final composition. The earlier `desktop-login.png` records the preceding visual iteration, not the final supplied-reference layout.

@@ -1,0 +1,52 @@
+/* Reference-led Sunbeam sign-in: form left, curved navy brand panel right. */
+.login.login-premium{display:flex;align-items:center;justify-content:center;min-height:100vh;padding:52px 44px;background:#f2f5f8}
+.login-premium .login-card{display:grid;grid-template-columns:1fr 1fr;width:min(1160px,100%);min-height:770px;background:white;border:1px solid rgba(255,255,255,.9);border-radius:28px;overflow:hidden;box-shadow:0 23px 75px rgba(26,49,78,.10)}
+.login-premium .login-form-wrap{display:block;width:100%;max-width:none;margin:0;padding:38px 48px 29px;background:white}
+.login-premium .login-form{width:100%;max-width:420px;margin:0 auto;padding:0;background:transparent;border:0;border-radius:0;box-shadow:none}
+.login-premium .login-form:before{display:none}
+.login-brand{display:flex;justify-content:center;margin:0 0 26px}
+.login-brand .brand{justify-content:center;gap:10px;color:#10263f}
+.login-brand .brand strong{font-size:30px}
+.login-brand .brand small{color:#64758a;font-size:13px;margin-top:3px}
+.login-brand .brand svg{width:30px;height:41px}
+.login-premium .login-form h1{text-align:center;font-size:32px;color:#10263f;margin-bottom:8px;line-height:1.15}
+.login-intro{text-align:center;font-size:17px;color:#63748a;line-height:1.4;margin-bottom:25px}
+.login-premium .login-form form{margin-top:0}
+.login-premium label{font-size:16px;font-weight:500;color:#263f58;margin-top:16px;margin-bottom:8px}
+.login-premium #login-role{min-height:49px;background:rgba(229,237,247,.57);border-color:#cfdae6;padding-left:16px}
+.login-input{position:relative}
+.login-input>svg{position:absolute;left:15px;top:15px;width:20px;height:20px;stroke:#967329;stroke-width:1.6;fill:none;pointer-events:none;stroke-linecap:round;stroke-linejoin:round}
+.login-premium .login-input input{padding:12px 48px;min-height:50px;border-color:#cfdae6;font-size:17px;background:rgba(242,246,251,.88)}
+.login-premium .login-input input[type=password],.login-premium .login-input #password{background:rgba(241,235,248,.50)}
+.login-input input[readonly]{color:#49617a}
+.login-premium .password-toggle{position:absolute;right:4px;top:3px;min-height:44px;width:44px;padding:11px;background:transparent;color:#677b92;border:0;box-shadow:none}
+.password-toggle svg{width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.5}
+.login-premium .password-toggle:hover{background:rgba(216,228,242,.45)}
+.signin-assistance{display:flex;justify-content:flex-end;margin-top:5px}
+.signin-assistance .text{font-size:14px;color:#77551c;text-decoration:none;padding-right:0;min-height:36px}
+.signin-assistance .text:hover{text-decoration:underline;background:transparent}
+.login-premium .login-form button[type=submit]{margin-top:7px;min-height:50px;width:100%;color:#f6e4b5;background:#10263f;border:1px solid #193957;border-radius:8px;box-shadow:0 4px 10px rgba(16,38,63,.10);font-size:17px;font-weight:700}
+.login-premium .login-form button[type=submit]:hover{background:#1c3d5b}
+.login-premium .error:empty{margin:0}
+.login-premium .demo-box{margin-top:17px;padding:13px 15px;border:1px solid #ede1c6;border-radius:8px;background:rgba(249,237,210,.56);font-size:14px}
+.login-premium .demo-box strong{font-size:15px;font-weight:700;margin-bottom:3px}
+.login-premium .demo-box p{line-height:1.35;color:#5d6470}
+.demo-role-buttons{display:flex;gap:9px}
+.login-premium .demo-box button{flex:1;margin-top:10px;min-height:42px;padding:8px 9px;font-size:14px;border-radius:6px;border:1px solid rgba(70,98,129,.23)}
+.login-student{font-size:12px;text-align:center;color:#6a7c8e;margin-top:19px}
+.login-premium .login-story{min-height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:65px 43px 48px;background:#10263f;border-radius:88px 0 0 88px;position:relative;isolation:isolate}
+.login-premium .login-story:after{content:none}
+.portal-emblem{display:grid;place-items:center;width:70px;height:70px;border:1px solid rgba(218,185,112,.42);border-radius:17px;background:rgba(218,185,112,.08);color:#e1bc68;margin-bottom:29px}
+.portal-emblem .icon{width:33px;height:33px;stroke-width:1.5}
+.portal-brand{font-size:21px;color:#dfc481;font-weight:500;letter-spacing:.01em;margin-bottom:8px}
+.login-premium #portal-title{font-size:43px;line-height:1.08;color:white;letter-spacing:-.025em;font-weight:700;margin:0;max-width:390px}
+.portal-rule{height:3px;width:72px;background:#d8b86e;border-radius:2px;margin:27px 0}
+.login-premium #portal-description{font-size:22px;line-height:1.5;max-width:380px;color:#e4ebf4;margin:0}
+.portal-location{font-size:15px;color:#adbed2;margin-top:16px}
+.login-premium .feeder-art{width:100%;max-width:360px;height:83px;margin:45px 0 22px;opacity:.88}
+.portal-principles{display:flex;justify-content:center;gap:12px;flex-wrap:wrap}
+.portal-principles span{border:1px solid rgba(199,215,235,.18);border-radius:5px;background:rgba(255,255,255,.035);padding:6px 11px;font-size:13px;color:#c9d6e6}
+@media(min-width:1700px){.login-premium .login-card{width:1240px;min-height:820px}.login-premium .login-form-wrap{padding-top:47px}.login-premium .login-brand{margin-bottom:34px}.login-premium #portal-title{font-size:48px}}
+@media(max-width:1100px){.login.login-premium{padding:35px 26px}.login-premium .login-form-wrap{padding:32px}.login-premium .login-story{padding:48px 30px;border-top-left-radius:65px;border-bottom-left-radius:65px}.login-premium #portal-title{font-size:37px}.login-premium #portal-description{font-size:20px}.login-premium .feeder-art{margin-top:38px}}
+@media(max-width:760px){.login.login-premium{padding:22px 16px;display:block}.login-premium .login-card{grid-template-columns:1fr;min-height:0;width:100%;border-radius:22px;max-width:540px;margin:auto}.login-premium .login-form-wrap{padding:29px 25px 26px}.login-brand{margin-bottom:22px}.login-premium .login-form h1{font-size:30px}.login-intro{font-size:16px;margin-bottom:23px}.login-premium .login-story{padding:37px 25px 34px;border-radius:48px 48px 0 0;min-height:0}.portal-emblem{width:57px;height:57px;border-radius:13px;margin-bottom:22px}.portal-emblem .icon{width:28px;height:28px}.login-premium #portal-title{font-size:34px}.portal-brand{font-size:19px}.portal-rule{margin:22px 0;width:60px}.login-premium #portal-description{font-size:19px;max-width:310px}.portal-location{font-size:14px;margin-top:14px}.login-premium .feeder-art{display:block;height:75px;max-width:325px;margin:27px 0 17px}.portal-principles{gap:8px}.portal-principles span{font-size:12px}.login-premium .demo-box button{min-height:44px}.signin-assistance .text{min-height:44px}.login-student{font-size:12px;margin-top:17px}}
+@media(prefers-reduced-motion:reduce){.login-premium *{transition:none!important}}

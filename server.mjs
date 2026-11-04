@@ -83,7 +83,7 @@ http.createServer(async(req,res)=>{
       return json(res,404,{error:'Endpoint not found.'});
     }
     if(method!=='GET' && method!=='HEAD')return json(res,405,{error:'Method not allowed.'});
-    const files={'/':'index.html','/app.js':'app.js','/styles.css':'styles.css','/luxury.css':'luxury.css','/fonts/alegreya-sans-400.ttf':'fonts/alegreya-sans-400.ttf','/fonts/alegreya-sans-500.ttf':'fonts/alegreya-sans-500.ttf','/fonts/alegreya-sans-700.ttf':'fonts/alegreya-sans-700.ttf','/fonts/OFL.txt':'fonts/OFL.txt'};
+    const files={'/':'index.html','/app.js':'app.js','/styles.css':'styles.css','/luxury.css':'luxury.css','/login-premium.css':'login-premium.css','/fonts/alegreya-sans-400.ttf':'fonts/alegreya-sans-400.ttf','/fonts/alegreya-sans-500.ttf':'fonts/alegreya-sans-500.ttf','/fonts/alegreya-sans-700.ttf':'fonts/alegreya-sans-700.ttf','/fonts/OFL.txt':'fonts/OFL.txt'};
     const file=files[p];if(!file || !existsSync(path.join(root,'public',file)))return json(res,404,{error:'Not found.'});
     const mime=file.endsWith('.css')?'text/css':file.endsWith('.js')?'text/javascript':file.endsWith('.ttf')?'font/ttf':file.endsWith('.txt')?'text/plain':'text/html';res.writeHead(200,{'Content-Type':mime+'; charset=utf-8','Cache-Control':'no-cache'});res.end(method==='HEAD'?undefined:readFileSync(path.join(root,'public',file)));
   } catch(e){json(res,e instanceof SyntaxError || e.message==='Request too large'?400:500,{error:e instanceof SyntaxError?'Invalid JSON.':e.message==='Request too large'?e.message:'The request could not be completed. Try again.'});}
