@@ -1,0 +1,32 @@
+[
+  {
+    "screen": "Field operations",
+    "checked": 94,
+    "failures": []
+  },
+  {
+    "screen": "Field visits",
+    "checked": 59,
+    "failures": []
+  },
+  {
+    "screen": "Outage watch",
+    "checked": 38,
+    "failures": []
+  },
+  {
+    "screen": "Billing & appeals",
+    "checked": 30,
+    "failures": []
+  },
+  {
+    "screen": "Help assistant",
+    "checked": 24,
+    "failures": []
+  },
+  {
+    "screen": "Platform guide",
+    "checked": 36,
+    "failures": []
+  }
+]

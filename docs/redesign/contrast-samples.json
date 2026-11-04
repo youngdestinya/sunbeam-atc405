@@ -1,0 +1,5407 @@
+[
+  {
+    "screen": "Field operations",
+    "text": [
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgb(255, 255, 255)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Skip to workspace",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(255, 255, 255)",
+        "size": "25px",
+        "text": "Sunbeam",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 184, 110, 0.12)"
+        ],
+        "color": "rgb(240, 214, 154)",
+        "size": "14px",
+        "text": "Overview",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Field visits",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Outage watch",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Billing & appeals",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Help assistant",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Platform guide",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(234, 209, 149)",
+        "size": "14px",
+        "text": "Lock & sign out",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "Ogun operations",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(78, 98, 120)",
+        "size": "13px",
+        "text": "/ Feeder 1",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "Field revenue officer",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "27px",
+        "text": "Field operations",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(78, 98, 120)",
+        "size": "15px",
+        "text": "Start with the evidence. Prioritize the next visit.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(16, 38, 63)"
+        ],
+        "color": "rgb(255, 255, 255)",
+        "size": "14px",
+        "text": "Open visit queue",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(248, 238, 216, 0.66)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(113, 85, 32)",
+        "size": "12px",
+        "text": "Synthetic demonstration · Snapshot: 1 November 2026, 09:15 WAT",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(248, 238, 216, 0.66)",
+          "rgba(255, 255, 255, 0.65)"
+        ],
+        "color": "rgb(113, 85, 32)",
+        "size": "12px",
+        "text": "Not connected to live meters",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(65, 88, 109)",
+        "size": "14px",
+        "text": "Assigned feeder",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "28px",
+        "text": "01",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(72, 96, 116)",
+        "size": "12px",
+        "text": "Urban · Abeokuta Central",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(65, 88, 109)",
+        "size": "14px",
+        "text": "Visits remaining",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "28px",
+        "text": "5",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(72, 96, 116)",
+        "size": "12px",
+        "text": "Of 6 assigned customers",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 239, 229, 0.73)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(65, 88, 109)",
+        "size": "14px",
+        "text": "Energy gap · 7 days",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 239, 229, 0.73)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "28px",
+        "text": "23.9",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 239, 229, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "21px",
+        "text": "%",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 239, 229, 0.73)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(72, 96, 116)",
+        "size": "12px",
+        "text": "65 MWh requires reconciliation",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(65, 88, 109)",
+        "size": "14px",
+        "text": "Appeals awaiting review",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "28px",
+        "text": "0",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(72, 96, 116)",
+        "size": "12px",
+        "text": "Human review required",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "21px",
+        "text": "Your next field visits",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(77, 98, 121)",
+        "size": "14px",
+        "text": "Verify mapping first. A signal is not proof of tampering.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(237, 244, 251, 0.82)"
+        ],
+        "color": "rgb(54, 83, 107)",
+        "size": "12px",
+        "text": "Feeder 1",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Assigned customer visits for feeder 1",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "SB-102",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "Abeokuta Central",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Consumption anomaly",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "To visit",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 237, 223, 0.9)"
+        ],
+        "color": "rgb(136, 67, 33)",
+        "size": "12px",
+        "text": "High",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.46)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "14px",
+        "text": "Review visit",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "SB-103",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "Abeokuta Central",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Estimated bill query",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "To visit",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 246, 218, 0.88)"
+        ],
+        "color": "rgb(119, 85, 28)",
+        "size": "12px",
+        "text": "Review",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.46)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "14px",
+        "text": "Review visit",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "SB-104",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "Abeokuta Central",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Meter inspection",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "To visit",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(237, 244, 251, 0.82)"
+        ],
+        "color": "rgb(54, 83, 107)",
+        "size": "12px",
+        "text": "Medium",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.46)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "14px",
+        "text": "Review visit",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "SB-105",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "Abeokuta Central",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Account verification",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "To visit",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(237, 244, 251, 0.82)"
+        ],
+        "color": "rgb(54, 83, 107)",
+        "size": "12px",
+        "text": "Medium",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.46)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "14px",
+        "text": "Review visit",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(255, 255, 255, 0.22)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "14px",
+        "text": "5 visits need attention",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(255, 255, 255, 0.22)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "14px",
+        "text": "View all visits",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 239, 229, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "21px",
+        "text": "Follow the energy",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 239, 229, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(77, 98, 121)",
+        "size": "14px",
+        "text": "7-day feeder balance · schematic, not a geographic map",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 239, 229, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(36, 72, 61)",
+        "size": "25px",
+        "text": "272",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 239, 229, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(69, 100, 89)",
+        "size": "12px",
+        "text": "MWh supplied",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 239, 229, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(36, 72, 61)",
+        "size": "25px",
+        "text": "207",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 239, 229, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(69, 100, 89)",
+        "size": "12px",
+        "text": "MWh billed",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 239, 229, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(121, 85, 26)",
+        "size": "25px",
+        "text": "65",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 239, 229, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(69, 100, 89)",
+        "size": "12px",
+        "text": "MWh unexplained",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 239, 229, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(78, 98, 120)",
+        "size": "14px",
+        "text": "Includes technical loss and data-quality effects. Reconcile before attributing commercial loss.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "21px",
+        "text": "Outage watch",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(77, 98, 121)",
+        "size": "14px",
+        "text": "Feeder 1 · Synthetic event EVT-001",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 246, 218, 0.88)"
+        ],
+        "color": "rgb(119, 85, 28)",
+        "size": "12px",
+        "text": "Review",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(91, 92, 98)",
+        "size": "12px",
+        "text": "Supply lost",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(36, 61, 85)",
+        "size": "23px",
+        "text": "08:59",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(91, 92, 98)",
+        "size": "12px",
+        "text": "Received",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(36, 61, 85)",
+        "size": "23px",
+        "text": "09:03",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(91, 92, 98)",
+        "size": "12px",
+        "text": "Alert created",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(36, 61, 85)",
+        "size": "23px",
+        "text": "09:04",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "8 meters flagged · 5-minute event-to-alert delay. Controller verification pending.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Review outage evidence",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "21px",
+        "text": "Supplied versus billed",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(77, 98, 121)",
+        "size": "14px",
+        "text": "Feeder 1 · 26 Oct–1 Nov 2026",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.26)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "0",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.26)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "25",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.26)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "50",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.26)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "MWh",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.26)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "26 Oct",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.26)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "28 Oct",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.26)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "30 Oct",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.26)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "01 Nov",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(78, 98, 120)",
+        "size": "13px",
+        "text": "Supplied energy",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(78, 98, 120)",
+        "size": "13px",
+        "text": "Billed energy",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(83, 105, 126)",
+        "size": "12px",
+        "text": "Sunbeam Electricity Distribution · ATC 405",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(83, 105, 126)",
+        "size": "12px",
+        "text": "AGL202607071 · D = 1 · Small tier",
+        "visible": true,
+        "weight": "400"
+      }
+    ]
+  },
+  {
+    "screen": "Field visits",
+    "text": [
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgb(255, 255, 255)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Skip to workspace",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(255, 255, 255)",
+        "size": "25px",
+        "text": "Sunbeam",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Overview",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 184, 110, 0.12)"
+        ],
+        "color": "rgb(240, 214, 154)",
+        "size": "14px",
+        "text": "Field visits",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Outage watch",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Billing & appeals",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Help assistant",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Platform guide",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(234, 209, 149)",
+        "size": "14px",
+        "text": "Lock & sign out",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "Ogun operations",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(78, 98, 120)",
+        "size": "13px",
+        "text": "/ Feeder 1",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "Field revenue officer",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "27px",
+        "text": "Field visits",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(78, 98, 120)",
+        "size": "15px",
+        "text": "Only customer references on your assigned feeder are visible.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(248, 238, 216, 0.66)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(113, 85, 32)",
+        "size": "12px",
+        "text": "Synthetic demonstration · Snapshot: 1 November 2026, 09:15 WAT",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(248, 238, 216, 0.66)",
+          "rgba(255, 255, 255, 0.65)"
+        ],
+        "color": "rgb(113, 85, 32)",
+        "size": "12px",
+        "text": "Not connected to live meters",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "14px",
+        "text": "Find customer or issue",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "14px",
+        "text": "Visit status",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "21px",
+        "text": "Assigned visit queue",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(77, 98, 121)",
+        "size": "14px",
+        "text": "Evidence is saved to this server. No customer identity key is held here.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Assigned customer visits for feeder 1",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "SB-101",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "Completed",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Mapping mismatch",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "Meter and account feeder codes disagree.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 237, 223, 0.9)"
+        ],
+        "color": "rgb(136, 67, 33)",
+        "size": "12px",
+        "text": "High",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.46)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "14px",
+        "text": "Review visit",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "SB-102",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "To visit",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Consumption anomaly",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "Recorded consumption fell 42% against the previous period.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 237, 223, 0.9)"
+        ],
+        "color": "rgb(136, 67, 33)",
+        "size": "12px",
+        "text": "High",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.46)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "14px",
+        "text": "Review visit",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "SB-103",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "To visit",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Estimated bill query",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "No reading exists; billing evidence requires review.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 246, 218, 0.88)"
+        ],
+        "color": "rgb(119, 85, 28)",
+        "size": "12px",
+        "text": "Review",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.46)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "14px",
+        "text": "Review visit",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "SB-104",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "To visit",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Meter inspection",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "Repeated zero readings; verify supply before attributing loss.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(237, 244, 251, 0.82)"
+        ],
+        "color": "rgb(54, 83, 107)",
+        "size": "12px",
+        "text": "Medium",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.46)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "14px",
+        "text": "Review visit",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "SB-105",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "To visit",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Account verification",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "Check the recorded meter reference against field evidence.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(237, 244, 251, 0.82)"
+        ],
+        "color": "rgb(54, 83, 107)",
+        "size": "12px",
+        "text": "Medium",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.46)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "14px",
+        "text": "Review visit",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "SB-106",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "To visit",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Delayed reading",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(80, 101, 123)",
+        "size": "13px",
+        "text": "Late telemetry; do not infer tampering from missing data.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 246, 218, 0.88)"
+        ],
+        "color": "rgb(119, 85, 28)",
+        "size": "12px",
+        "text": "Review",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.46)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "14px",
+        "text": "Review visit",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(83, 105, 126)",
+        "size": "12px",
+        "text": "Sunbeam Electricity Distribution · ATC 405",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(83, 105, 126)",
+        "size": "12px",
+        "text": "AGL202607071 · D = 1 · Small tier",
+        "visible": true,
+        "weight": "400"
+      }
+    ]
+  },
+  {
+    "screen": "Outage watch",
+    "text": [
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgb(255, 255, 255)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Skip to workspace",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(255, 255, 255)",
+        "size": "25px",
+        "text": "Sunbeam",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Overview",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Field visits",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 184, 110, 0.12)"
+        ],
+        "color": "rgb(240, 214, 154)",
+        "size": "14px",
+        "text": "Outage watch",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Billing & appeals",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Help assistant",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Platform guide",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(234, 209, 149)",
+        "size": "14px",
+        "text": "Lock & sign out",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "Ogun operations",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(78, 98, 120)",
+        "size": "13px",
+        "text": "/ Feeder 1",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "Field revenue officer",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "27px",
+        "text": "Outage watch",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(78, 98, 120)",
+        "size": "15px",
+        "text": "Separate the event time from the arrival time of delayed telemetry.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(248, 238, 216, 0.66)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(113, 85, 32)",
+        "size": "12px",
+        "text": "Synthetic demonstration · Snapshot: 1 November 2026, 09:15 WAT",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(248, 238, 216, 0.66)",
+          "rgba(255, 255, 255, 0.65)"
+        ],
+        "color": "rgb(113, 85, 32)",
+        "size": "12px",
+        "text": "Not connected to live meters",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "21px",
+        "text": "Feeder 1 · loss-of-supply report",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(77, 98, 121)",
+        "size": "14px",
+        "text": "EVT-001 · All times WAT · 1 Nov 2026",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 246, 218, 0.88)"
+        ],
+        "color": "rgb(119, 85, 28)",
+        "size": "12px",
+        "text": "Review",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(91, 92, 98)",
+        "size": "12px",
+        "text": "Supply lost",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(36, 61, 85)",
+        "size": "23px",
+        "text": "08:59",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(91, 92, 98)",
+        "size": "12px",
+        "text": "Received",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(36, 61, 85)",
+        "size": "23px",
+        "text": "09:03",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(91, 92, 98)",
+        "size": "12px",
+        "text": "Alert created",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.3)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(36, 61, 85)",
+        "size": "23px",
+        "text": "09:04",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Eight synthetic meter flags. The controller must corroborate the feeder event before confirmation.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.34)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "End-to-end delay: 5 minutes",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.34)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(78, 98, 120)",
+        "size": "15px",
+        "text": "Target: within 15 minutes of the event, not just receipt.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(220, 236, 248, 0.47)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Late-arrival policy",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(251, 229, 213, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(220, 236, 248, 0.47)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(78, 98, 120)",
+        "size": "15px",
+        "text": "Bursts after network recovery do not prove a new outage. Preserve event timestamps and flag delayed ",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "21px",
+        "text": "What this demonstration proves",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "It exposes the timing evidence needed for the controller’s decision. It does not ingest telemetry or",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.34)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Durable event ingestion, event-time windows, deduplication, delayed-event flags and monitored alert ",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.34)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Next phase",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(220, 236, 248, 0.47)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Keep Nigerian operational alerts independent from the South African analytics lake. Pause billing if",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(220, 236, 248, 0.47)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Six-hour region outage",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(83, 105, 126)",
+        "size": "12px",
+        "text": "Sunbeam Electricity Distribution · ATC 405",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(83, 105, 126)",
+        "size": "12px",
+        "text": "AGL202607071 · D = 1 · Small tier",
+        "visible": true,
+        "weight": "400"
+      }
+    ]
+  },
+  {
+    "screen": "Billing & appeals",
+    "text": [
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgb(255, 255, 255)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Skip to workspace",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(255, 255, 255)",
+        "size": "25px",
+        "text": "Sunbeam",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Overview",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Field visits",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Outage watch",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 184, 110, 0.12)"
+        ],
+        "color": "rgb(240, 214, 154)",
+        "size": "14px",
+        "text": "Billing & appeals",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Help assistant",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Platform guide",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(234, 209, 149)",
+        "size": "14px",
+        "text": "Lock & sign out",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "Ogun operations",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(78, 98, 120)",
+        "size": "13px",
+        "text": "/ Feeder 1",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "Field revenue officer",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "27px",
+        "text": "Billing & appeals",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(78, 98, 120)",
+        "size": "15px",
+        "text": "Estimated billing requires evidence. Every dispute gets a human route.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(16, 38, 63)"
+        ],
+        "color": "rgb(255, 255, 255)",
+        "size": "14px",
+        "text": "Open customer appeal",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(248, 238, 216, 0.66)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(113, 85, 32)",
+        "size": "12px",
+        "text": "Synthetic demonstration · Snapshot: 1 November 2026, 09:15 WAT",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(248, 238, 216, 0.66)",
+          "rgba(255, 255, 255, 0.65)"
+        ],
+        "color": "rgb(113, 85, 32)",
+        "size": "12px",
+        "text": "Not connected to live meters",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(247, 222, 232, 0.71)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "21px",
+        "text": "Your submitted appeals",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(247, 222, 232, 0.71)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(77, 98, 121)",
+        "size": "14px",
+        "text": "No automated disconnection or bill approval.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(247, 222, 232, 0.71)",
+          "rgba(255, 255, 255, 0.34)"
+        ],
+        "color": "rgb(69, 96, 120)",
+        "size": "17px",
+        "text": "No appeals yet. Field officers can open a customer appeal from this workspace.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "21px",
+        "text": "Protect the customer",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.34)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "SB-103 has no meter reading. Check the applicable cap and written justification; neither a cap nor a",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.34)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Estimated bills are not readings",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(220, 236, 248, 0.47)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "The app cannot disconnect a customer or treat a model score as guilt. Review outcomes request correc",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(220, 236, 248, 0.47)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Human judgement is mandatory",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(230, 238, 219, 0.52)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "DisCo customer complaints unit → NERC Consumer Forum → NERC. The submission here is an internal demo",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(230, 238, 219, 0.52)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Escalation route",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Read NERC’s complaints procedure",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(83, 105, 126)",
+        "size": "12px",
+        "text": "Sunbeam Electricity Distribution · ATC 405",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(83, 105, 126)",
+        "size": "12px",
+        "text": "AGL202607071 · D = 1 · Small tier",
+        "visible": true,
+        "weight": "400"
+      }
+    ]
+  },
+  {
+    "screen": "Help assistant",
+    "text": [
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgb(255, 255, 255)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Skip to workspace",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(255, 255, 255)",
+        "size": "25px",
+        "text": "Sunbeam",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Overview",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Field visits",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Outage watch",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Billing & appeals",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 184, 110, 0.12)"
+        ],
+        "color": "rgb(240, 214, 154)",
+        "size": "14px",
+        "text": "Help assistant",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Platform guide",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(234, 209, 149)",
+        "size": "14px",
+        "text": "Lock & sign out",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "Ogun operations",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(78, 98, 120)",
+        "size": "13px",
+        "text": "/ Feeder 1",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "Field revenue officer",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "27px",
+        "text": "Help assistant",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(78, 98, 120)",
+        "size": "15px",
+        "text": "Bounded answers from the project policy. No customer profiling or external AI calls.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(248, 238, 216, 0.66)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(113, 85, 32)",
+        "size": "12px",
+        "text": "Synthetic demonstration · Snapshot: 1 November 2026, 09:15 WAT",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(248, 238, 216, 0.66)",
+          "rgba(255, 255, 255, 0.65)"
+        ],
+        "color": "rgb(113, 85, 32)",
+        "size": "12px",
+        "text": "Not connected to live meters",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "21px",
+        "text": "Ask about your field workspace",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(77, 98, 121)",
+        "size": "14px",
+        "text": "Topics: visits, outage timing, billing, privacy and deployment.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(237, 244, 251, 0.82)"
+        ],
+        "color": "rgb(54, 83, 107)",
+        "size": "12px",
+        "text": "Policy help",
+        "visible": true,
+        "weight": "500"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Your question",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(16, 38, 63)"
+        ],
+        "color": "rgb(255, 255, 255)",
+        "size": "17px",
+        "text": "Ask assistant",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(232, 225, 246, 0.73)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 239, 229, 0.73)"
+        ],
+        "color": "rgb(41, 78, 66)",
+        "size": "17px",
+        "text": "This is a rule-based help assistant. A trained loss model and generative question-answering system b",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(83, 105, 126)",
+        "size": "12px",
+        "text": "Sunbeam Electricity Distribution · ATC 405",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(83, 105, 126)",
+        "size": "12px",
+        "text": "AGL202607071 · D = 1 · Small tier",
+        "visible": true,
+        "weight": "400"
+      }
+    ]
+  },
+  {
+    "screen": "Platform guide",
+    "text": [
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgb(255, 255, 255)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Skip to workspace",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(255, 255, 255)",
+        "size": "25px",
+        "text": "Sunbeam",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Overview",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Field visits",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Outage watch",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Billing & appeals",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(189, 202, 217)",
+        "size": "14px",
+        "text": "Help assistant",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 184, 110, 0.12)"
+        ],
+        "color": "rgb(240, 214, 154)",
+        "size": "14px",
+        "text": "Platform guide",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgb(10, 27, 48)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(234, 209, 149)",
+        "size": "14px",
+        "text": "Lock & sign out",
+        "visible": true,
+        "weight": "600"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "Ogun operations",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(78, 98, 120)",
+        "size": "13px",
+        "text": "/ Feeder 1",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "13px",
+        "text": "Field revenue officer",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "27px",
+        "text": "Platform guide",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(78, 98, 120)",
+        "size": "15px",
+        "text": "A small, inspectable deployment for a three-engineer team.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(248, 238, 216, 0.66)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(113, 85, 32)",
+        "size": "12px",
+        "text": "Synthetic demonstration · Snapshot: 1 November 2026, 09:15 WAT",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(248, 238, 216, 0.66)",
+          "rgba(255, 255, 255, 0.65)"
+        ],
+        "color": "rgb(113, 85, 32)",
+        "size": "12px",
+        "text": "Not connected to live meters",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "21px",
+        "text": "Task 1 deployment model",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.34)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "One Node.js service, server-side sessions, role checks and a persistent SQLite volume. Single-instan",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.34)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Application · Docker or Dokku",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(220, 236, 248, 0.47)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Proposed managed ingestion and transformations. No self-managed Kubernetes. This app does not run th",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(220, 236, 248, 0.47)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Readings pipeline · managed PaaS",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(230, 238, 219, 0.52)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Retained on infrastructure Sunbeam controls; never shipped with this app or copied to the lake.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(230, 238, 219, 0.52)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Identity key · Abeokuta",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(243, 225, 231, 0.5)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Service health",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(216, 232, 249, 0.72)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(243, 225, 231, 0.5)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "Open application health endpoint",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "21px",
+        "text": "Your submission checklist",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.34)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "docs/architecture-pack.html — print on A4; two designed pages.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(255, 255, 255, 0.34)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Architecture pack",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(220, 236, 248, 0.47)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "decisions.md — ADR-01 and ADR-02.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(220, 236, 248, 0.47)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Architecture decisions",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(230, 238, 219, 0.52)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "README.md and docs/DEPLOYMENT.md — steps, command counts and recording plan.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(230, 238, 219, 0.52)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Deployment and walkthrough",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(243, 225, 231, 0.5)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "15px",
+        "text": "AGL202607071 · D=1 · Small tier · identifiers ending in 1 · six-hour regional outage.",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(249, 237, 210, 0.76)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(243, 225, 231, 0.5)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(16, 38, 63)",
+        "size": "17px",
+        "text": "Personal variables",
+        "visible": true,
+        "weight": "700"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(83, 105, 126)",
+        "size": "12px",
+        "text": "Sunbeam Electricity Distribution · ATC 405",
+        "visible": true,
+        "weight": "400"
+      },
+      {
+        "backgrounds": [
+          "rgb(237, 242, 247)",
+          "rgb(237, 242, 247)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)",
+          "rgba(0, 0, 0, 0)"
+        ],
+        "color": "rgb(83, 105, 126)",
+        "size": "12px",
+        "text": "AGL202607071 · D = 1 · Small tier",
+        "visible": true,
+        "weight": "400"
+      }
+    ]
+  }
+]
